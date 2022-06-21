@@ -1,6 +1,9 @@
 html{
 background-color: pink;
 }
+header{
+padding: 5px;
+}
 ul a{
 color: green;
 text-decoration: none;
@@ -20,4 +23,7 @@ background-color: white;
 h1{
 margin-left: 200px;
 color: purple;
+}
+footer{
+padding: 5px;
 }
